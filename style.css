@@ -115,3 +115,9 @@ article img {
     object-fit: cover;
 }
 
+p {
+    width:100%;
+    text-align: justify;
+    font-size: 20px;
+}
+
