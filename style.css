@@ -79,6 +79,16 @@ footer .links > a {
     font-size: 25px;
 }
 
+.news article:nth-child(2n) {
+background-color: aquamarine;
+}
+
+.breakingnews::before {
+    content: "NEW";
+    color: #b60000;
+     font-size: 25px;
+}
+
 .news {
     background-color: rgba(255, 255, 255, 0.568);
     padding: 50px 0 32px;
